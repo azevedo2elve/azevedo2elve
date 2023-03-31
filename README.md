@@ -1,4 +1,4 @@
-### Oi, me chamo Gabriel, estudante de Front-End 👋
+### Oi, me chamo Gabriel, estudante Full Stack 👋
 <div align="center">
   <a href="https://github.com/azevedogabriel-12">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=azevedogabriel-12&count_private=true&theme=transparent&show_icons=true"/>
