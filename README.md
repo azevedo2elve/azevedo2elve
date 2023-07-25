@@ -1,8 +1,8 @@
 ### Oi, me chamo Gabriel, estudante Full Stack 👋
 <div align="center">
-  <a href="https://github.com/azevedogabriel-12">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=azevedogabriel-12&count_private=true&theme=transparent&show_icons=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azevedogabriel-12&count_private=true&layout=compact&langs_count=7&theme=transparent"/>
+  <a href="https://github.com/dev-azevedogabriel">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=dev-azevedogabriel&count_private=true&theme=transparent&show_icons=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-azevedogabriel&count_private=true&layout=compact&langs_count=7&theme=transparent"/>
 </div>
 
   ##
