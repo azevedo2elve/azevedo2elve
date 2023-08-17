@@ -1,4 +1,4 @@
-### Oi, me chamo Gabriel, estudante Full Stack 👋
+### Oi, me chamo Gabriel, desenvolvedor web 👋
 
   ##
   
