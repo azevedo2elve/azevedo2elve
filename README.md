@@ -10,24 +10,23 @@
 </div>
 
 <div align="center">
-  
-<a href="https://www.linkedin.com/in/gabriel-azevedo-dev/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" target="_blank"></a> 
-<a href="https://www.linkedin.com/in/gabriel-azevedo-dev/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" target="_blank"></a> 
-  
+  <a href="https://www.linkedin.com/in/gabriel-azevedo-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "https://wa.me/5551995141997"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a href="https://discord.gg/430751947281137665" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 </div>
 
 ##
   
 ### Main skills:
-[![My Skills](https://skillicons.dev/icons?i=php,laravel)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=php,laravel"/>
 
 ### Tools:
-[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,linux,git,vscode)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,vscode"/>
 
 ### Other Knowledge:
-[![My Skills](https://skillicons.dev/icons?i=python,bootstrap,mysql,js,jquery)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=python,bootstrap,mysql,js,jquery"/>
 
 ### Studying in this moment:
-[![My Skills](https://skillicons.dev/icons?i=vue,react)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=vue,react"/>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F4382E&height=100&section=footer"/>
