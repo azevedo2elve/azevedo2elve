@@ -12,16 +12,16 @@
   </div>
 
 
-## Main skills:
+### Main skills:
 [![My Skills](https://skillicons.dev/icons?i=php,laravel)](https://skillicons.dev)
 
-## Tools:
-[![My Skills](https://skillicons.dev/icons?i=docker,linux,git,vscode)](https://skillicons.dev)
+### Tools:
+[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,linux,git,vscode)](https://skillicons.dev)
 
-## Other Knowledge:
+### Other Knowledge:
 [![My Skills](https://skillicons.dev/icons?i=python,bootstrap,mysql,js)](https://skillicons.dev)
 
-## Studying in this moment:
+### Studying in this moment:
 [![My Skills](https://skillicons.dev/icons?i=vue,react)](https://skillicons.dev)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F4382E&height=100&section=footer"/>
