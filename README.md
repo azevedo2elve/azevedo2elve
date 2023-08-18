@@ -19,7 +19,7 @@
 [![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,linux,git,vscode)](https://skillicons.dev)
 
 ### Other Knowledge:
-[![My Skills](https://skillicons.dev/icons?i=python,bootstrap,mysql,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,bootstrap,mysql,js,jquery)](https://skillicons.dev)
 
 ### Studying in this moment:
 [![My Skills](https://skillicons.dev/icons?i=vue,react)](https://skillicons.dev)
