@@ -5,8 +5,8 @@
 <img align="center" alt="saudacao_gabriel" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=F4382E&center=true&vCenter=true&width=1000&lines=Hello%2C+my+name+is+GABRIEL!;I+am+Web+Developer;WELCOME!+%3DD">
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats-azevedogabriel.vercel.app/api?username=dev-azevedogabriel&show_icons=true&theme=maroongold&title_color=f4382e&text_color=fff&icon_color=f4382e&border_radius=20"/>
-  <img height="160em" src="https://github-readme-stats-azevedogabriel.vercel.app/api/top-langs/?username=dev-azevedogabriel&layout=compact&show_icons=true&theme=maroongold&title_color=f4382e&text_color=fff&icon_color=f4382e&border_radius=20"/>
+  <img height="160em" src="https://github-readme-stats-lemon-omega.vercel.app/api?username=dev-azevedogabriel&show_icons=true&theme=maroongold&title_color=f4382e&text_color=fff&icon_color=f4382e&border_radius=20"/>
+  <img height="160em" src="https://github-readme-stats-lemon-omega.vercel.app/api/top-langs/?username=dev-azevedogabriel&layout=compact&show_icons=true&theme=maroongold&title_color=f4382e&text_color=fff&icon_color=f4382e&border_radius=20"/>
 </div>
 
 <div align="center">
