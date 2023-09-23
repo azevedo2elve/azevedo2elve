@@ -1,5 +1,3 @@
-
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F4382E&height=100&section=header"/>
 
 <img align="center" alt="saudacao_gabriel" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=F4382E&center=true&vCenter=true&width=1000&lines=Hello%2C+my+name+is+GABRIEL!;I+am+Web+Developer;WELCOME!+%3DD">
