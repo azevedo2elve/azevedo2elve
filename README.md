@@ -25,6 +25,6 @@
 <img src="https://skillicons.dev/icons?i=python,bootstrap,mysql,js,jquery"/>
 
 ### Studying in this moment:
-<img src="https://skillicons.dev/icons?i=vue,tailwind"/>
+<img src="https://skillicons.dev/icons?i=react,tailwind"/>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F4382E&height=100&section=footer"/>
