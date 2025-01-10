@@ -16,15 +16,15 @@
 ##
   
 ### Main skills:
-<img src="https://skillicons.dev/icons?i=php,laravel"/>
+<img src="https://skillicons.dev/icons?i=php,laravel"/> <img src="https://skillicons.dev/icons?i=python"/>
 
 ### Tools:
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,vscode"/>
+<img src="https://skillicons.dev/icons?i=docker"/> <img src="https://skillicons.dev/icons?i=linux"/> <img src="https://skillicons.dev/icons?i=git"/>
 
 ### Other Knowledge:
-<img src="https://skillicons.dev/icons?i=python,bootstrap,mysql,js,jquery"/>
+<img src="https://skillicons.dev/icons?i=vue"/> <img src="https://skillicons.dev/icons?i=tailwind"/> <img src="https://skillicons.dev/icons?i=bootstrap"/> <img src="https://skillicons.dev/icons?i=mysql"/> <img src="https://skillicons.dev/icons?i=js"/> <img src="https://skillicons.dev/icons?i=jquery"/>
 
 ### Studying in this moment:
-<img src="https://skillicons.dev/icons?i=react,tailwind"/>
+<img src="https://skillicons.dev/icons?i=react"/>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F4382E&height=100&section=footer"/>
