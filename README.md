@@ -13,7 +13,7 @@ No meu tempo livre, gosto de estudar mais sobre programação, acompanhando as c
 - 👤 **Nome:** Gabriel Azevedo da Silva   
 - 🎂 **Idade:** 28   
 - 📍 **Localização:** Canoas - RS, Brasil   
-- 💻 **Stack:** PHP, Laravel, JavaScript, Python, Docker, Linux, PostgreSQL, Oracle
+- 💻 **Stack:** PHP, Laravel, JavaScript, Python, Docker, Linux, SQL
 - 📚 **Aprendizado Atual:** React, TypeScript   
 - 🎓 **Formação:**
   - Análise e Desenvolvimento de Sistemas - UNINTER (cursando)
