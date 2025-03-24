@@ -1,30 +1,34 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F4382E&height=100&section=header"/>
+# 🫡 Seja bem-vindo ao meu perfil do GitHub!
 
-<img align="center" alt="saudacao_gabriel" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=F4382E&center=true&vCenter=true&width=1000&lines=Hello%2C+my+name+is+GABRIEL!;I+am+Web+Developer;WELCOME!+%3DD">
+Aqui vou compartilhar um pouco sobre mim. 
 
-<div align="center">
-  <img height="160em" src="https://github-readme-stats-kohl-gamma-84.vercel.app/api?username=azevedo2elve&show_icons=true&theme=maroongold&title_color=f4382e&text_color=fff&icon_color=f4382e&border_radius=20"/>
-  <img height="160em" src="https://github-readme-stats-kohl-gamma-84.vercel.app/api/top-langs/?username=azevedo2elve&layout=compact&show_icons=true&theme=maroongold&title_color=f4382e&text_color=fff&icon_color=f4382e&border_radius=20"/>
-</div>
+## 🌟 Informações Públicas
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/gabriel-azevedo-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "https://wa.me/5551995141997"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-  <a href = "mailto:azevedogabriel00@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+Meu nome é **Gabriel Azevedo da Silva** (também conhecido(a) como **Azevedo** - tempo de ensino médio, **Gabriel Silva** - tempo de militar). Atualmente, moro em **Canoas, RS** e meu objetivo é virar um grande desenvolvedor full-stack com o foco em automações afim de solucionar problemas 🚀
 
-##
-  
-### Main skills:
-<img src="https://skillicons.dev/icons?i=php,laravel"/> <img src="https://skillicons.dev/icons?i=python"/>
+No meu tempo livre, gosto de estudar mais sobre programação, acompanhando as comunidades onde aprendo bastante sobre carreiras, ferramentas e dicas de codificações. 💻
 
-### Tools:
-<img src="https://skillicons.dev/icons?i=docker"/> <img src="https://skillicons.dev/icons?i=linux"/> <img src="https://skillicons.dev/icons?i=git"/>
+## 📝 Informações Detalhadas
 
-### Other Knowledge:
-<img src="https://skillicons.dev/icons?i=tailwind"/> <img src="https://skillicons.dev/icons?i=bootstrap"/> <img src="https://skillicons.dev/icons?i=mysql"/> <img src="https://skillicons.dev/icons?i=js"/> <img src="https://skillicons.dev/icons?i=jquery"/>
+- 👤 **Nome:** Gabriel Azevedo da Silva   
+- 🎂 **Idade:** 28   
+- 📍 **Localização:** Canoas - RS, Brasil   
+- 💻 **Stack:** PHP, Laravel, JavaScript, Python, Docker, Linux, PostgreSQL, Oracle
+- 📚 **Aprendizado Atual:** React, TypeScript   
+- 🎓 **Formação:**
+  - Análise e Desenvolvimento de Sistemas - UNINTER (cursando)
+  - Egenheiro de Software - Escola DNC (cursando - 360h)
+<!-- - 🏆 **Conquistas:** [Prêmios ou reconhecimentos, se houver] -->
 
-### Studying in this moment:
-<img src="https://skillicons.dev/icons?i=react"/> <img src="https://skillicons.dev/icons?i=vue"/>
+## 😎 Curiosidades sobre Mim
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F4382E&height=100&section=footer"/>
+- 🎮 Gosto bastante de jogar com meus amigos no computador. 
+- 💡 Comecei a programar no técnico de informática em **2020**, mas dentro do quartel foquei em outras coisas, depois em **2023** voltei a estudar mais para programação e, desde então, venho me desafiando e aprendendo coisas novas.    
+- 🌐 Tenho experiência em alguns projetos
+  - Dentro da empresa fazendo SAS (Sistema de Auxílio ao Suporte) com PHP e Laravel, onde subi a aplicação via Docker com apache
+  - Dentro da empresa fiz scripts em Python:
+      - Script afim de resoluções rápidas dentro do banco de dados para aliviar o trabalho do suporte
+      - Script afim de dentro do terminal local verificar os logs dos serviços dentro dos vários servidores que a empresa contém
+  - Dentro da empresa fiz script em shell para verificar banco de dados e enviar email via SMTP
+
+---
