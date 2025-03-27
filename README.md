@@ -19,12 +19,12 @@ No meu tempo livre, gosto de estudar mais sobre programação, acompanhando as c
 - 📍 **Localização:** Canoas - RS, Brasil   
 - 💻 **Stack:**
   - <img height="25" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/php.png"> PHP, <img height="25" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/laravel.png"> Laravel
-  - <img height="25" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png"> Java, Springboot <img height="25" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring_boot.png">
   - <img height="25" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png"> JavaScript
   - <img height="25" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png"> Python
   - <img height="25" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png"> Docker, <img height="25" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png"> Linux, <img height="25" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png"> PostgreSQL
 - 📚 **Aprendizado Atual:**
-  - <img height="25" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png"> React, <img height="25" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png"> TypeScript   
+  - <img height="25" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png"> React, <img height="25" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png"> TypeScript
+  - <img height="25" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png"> Java, Springboot <img height="25" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring_boot.png">
 - 🎓 **Formação:**
   - Análise e Desenvolvimento de Sistemas - UNINTER (cursando)
   - Egenheiro de Software - Escola DNC (cursando - 360h)
